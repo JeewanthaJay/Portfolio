@@ -85,6 +85,15 @@ const Portfolio = () => {
       tech: "Figma, UI/UX Design",
       image: "/matrix-app.jpg",
       link: "https://www.figma.com/design/A5DapMRp0HQt3XrhvqBGLJ/CM-UIs?node-id=0-1&p=f&t=soEjGagXknEOA83K-0"
+    },
+    {
+    id: 8,
+    title: "ASTRO Web",
+    type: "Animated Web Application",
+    description: "A highly interactive, single-page scrolling animated website with smooth transitions and modern aesthetics.",
+    tech: "React, Framer Motion, Tailwind CSS", 
+    image: "/astro.jpg", 
+    link: "https://github.com/JeewanthaJay/Astro-Web" 
     }
   ];
 
